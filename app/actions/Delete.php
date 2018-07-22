@@ -10,9 +10,9 @@
  * @author Michael Lins <michael at longanime.com.br>
  * @created 2018-07-19
  */
- namespace Longanime\Webxapp;
+namespace Longanime\Webxapp;
  
-use Webx\BasicAction;
+use Longanime\Webx\BasicAction;
 
 class Delete extends BasicAction {
 

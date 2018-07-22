@@ -10,7 +10,9 @@
  * @author Michael Lins <michael at longanime.com.br>
  * @created 2018-07-19
  */
-use Webx\BasicAction;
+namespace Longanime\Webxapp;
+ 
+use Longanime\Webx\BasicAction;
 
 class Insert extends BasicAction {
 

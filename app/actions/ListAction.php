@@ -10,8 +10,10 @@
  * @author Michael Lins <michael at longanime.com.br>
  * @created 2018-07-19
  */
-use Webx\BasicAction;
-use Webx\Session;
+namespace Longanime\Webxapp;
+ 
+use Longanime\Webx\BasicAction;
+use Longanime\Webx\Session;
 
 class ListAction extends BasicAction {
     

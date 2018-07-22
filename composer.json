@@ -12,11 +12,10 @@
             "email": "michael@longanime.com.br"
         }
     ],
-    
         
      "autoload": {
         "psr-4": {
-            "Longanime\\Webxapp\\": "app/",
+            "Longanime\\Webxapp\\": "app/"
         }
     }
 }
