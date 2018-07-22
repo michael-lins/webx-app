@@ -3,7 +3,8 @@
     "description": "A sample application built upon webx php framework",
     "type": "project",
     "require": {
-        "php": "^5.5"
+        "php": "^5.5",
+        "longanime/webx": "1.0"
     },
     "license": "MIT",
     "authors": [

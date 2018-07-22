@@ -33,4 +33,6 @@ class ListAction extends BasicAction {
         $this->list = Session::getValue( "list" );
         
     }
+    
+    public function clazz() { var_dump( __CLASS__ ); }
 }
