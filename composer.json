@@ -1,0 +1,15 @@
+{
+    "name": "longanime/webxapp",
+    "description": "A sample application built upon webx php framework",
+    "type": "project",
+    "require": {
+        "php": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Lins",
+            "email": "michael@longanime.com.br"
+        }
+    ]
+}
