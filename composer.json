@@ -11,5 +11,12 @@
             "name": "Michael Lins",
             "email": "michael@longanime.com.br"
         }
-    ]
+    ],
+    
+        
+     "autoload": {
+        "psr-4": {
+            "Longanime\\Webxapp\\": "app/",
+        }
+    }
 }
