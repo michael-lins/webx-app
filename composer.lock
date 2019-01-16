@@ -1,27 +1,27 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f08a1e528d4e864062d0d9f69e91b9dc",
+    "content-hash": "c914e568271a9666c48351bb01446823",
     "packages": [
         {
             "name": "longanime/webx",
-            "version": "v1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/michael-lins/webx.git",
-                "reference": "7d5d6d21c86fff510f2cd3995de3a1683ef49a3a"
+                "reference": "7dd4031b988f0a853d8edfd9edf329d74ac97101"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/michael-lins/webx/zipball/7d5d6d21c86fff510f2cd3995de3a1683ef49a3a",
-                "reference": "7d5d6d21c86fff510f2cd3995de3a1683ef49a3a",
+                "url": "https://api.github.com/repos/michael-lins/webx/zipball/7dd4031b988f0a853d8edfd9edf329d74ac97101",
+                "reference": "7dd4031b988f0a853d8edfd9edf329d74ac97101",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5"
+                "php": "^7.2"
             },
             "type": "library",
             "autoload": {
@@ -40,7 +40,7 @@
                 }
             ],
             "description": "Light php framework to illustrate the implementation of a web framework with static routes for study purposes",
-            "time": "2018-07-22T19:00:38+00:00"
+            "time": "2019-01-16T18:03:16+00:00"
         }
     ],
     "packages-dev": [],
@@ -50,7 +50,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^5.5"
+        "php": "^7.2"
     },
     "platform-dev": []
 }
