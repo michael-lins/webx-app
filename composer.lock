@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c914e568271a9666c48351bb01446823",
+    "content-hash": "6ba905731d57fd7ef89fa40cc6e27839",
     "packages": [
         {
             "name": "longanime/webx",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/michael-lins/webx.git",
-                "reference": "7dd4031b988f0a853d8edfd9edf329d74ac97101"
+                "reference": "52056e0e2cd9d77fe6bd50e758a04c03d027754e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/michael-lins/webx/zipball/7dd4031b988f0a853d8edfd9edf329d74ac97101",
-                "reference": "7dd4031b988f0a853d8edfd9edf329d74ac97101",
+                "url": "https://api.github.com/repos/michael-lins/webx/zipball/52056e0e2cd9d77fe6bd50e758a04c03d027754e",
+                "reference": "52056e0e2cd9d77fe6bd50e758a04c03d027754e",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +40,7 @@
                 }
             ],
             "description": "Light php framework to illustrate the implementation of a web framework with static routes for study purposes",
-            "time": "2019-01-16T18:03:16+00:00"
+            "time": "2019-01-16T19:35:11+00:00"
         }
     ],
     "packages-dev": [],
